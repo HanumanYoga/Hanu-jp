@@ -1,6 +1,6 @@
 
 {
-  "name": "hanuman-yoga-nextjs-full",
+  "name": "hanuman-yoga-nextjs",
   "version": "1.0.0",
   "scripts": {
     "dev": "next dev",
